@@ -10,5 +10,19 @@
         "name": "Анна Строкина"
     },
     "items": [
+        {
+            "id": "https://annastrokina.ru/testovyy-post-v-bloge.html",
+            "url": "https://annastrokina.ru/testovyy-post-v-bloge.html",
+            "title": "Тестовый пост в блоге",
+            "summary": "Тестовый пост 123123 Тостер",
+            "content_html": "<p>Тестовый пост 123123 Тостер</p>",
+            "author": {
+                "name": "Анна Строкина"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-06T00:48:07+03:00",
+            "date_modified": "2026-08-06T00:48:07+03:00"
+        }
     ]
 }

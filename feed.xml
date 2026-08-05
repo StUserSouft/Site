@@ -3,10 +3,30 @@
     <title>Анна Строкина | Официальный сайт</title>
     <link href="https://annastrokina.ru/feed.xml" rel="self" />
     <link href="https://annastrokina.ru" />
-    <updated>1970-01-01T03:00:00+03:00</updated>
+    <updated>2026-08-06T00:48:07+03:00</updated>
     <author>
         <name>Анна Строкина</name>
     </author>
     <id>https://annastrokina.ru</id>
 
+    <entry>
+        <title>Тестовый пост в блоге</title>
+        <author>
+            <name>Анна Строкина</name>
+        </author>
+        <link href="https://annastrokina.ru/testovyy-post-v-bloge.html"/>
+        <id>https://annastrokina.ru/testovyy-post-v-bloge.html</id>
+
+        <updated>2026-08-06T00:48:07+03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Тестовый пост 123123 Тостер
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Тестовый пост 123123 Тостер</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
