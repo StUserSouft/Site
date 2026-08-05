@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Анна Строкина | Официальный сайт",
     "description": "",
-    "home_page_url": "https://StUserSouft.github.io/Site",
-    "feed_url": "https://StUserSouft.github.io/Site/feed.json",
+    "home_page_url": "https://annastrokina.ru",
+    "feed_url": "https://annastrokina.ru/feed.json",
     "user_comment": "",
-    "icon": "https://StUserSouft.github.io/Site/media/website/photo_2026-07-04_01-47-41-2.jpg",
+    "icon": "https://annastrokina.ru/media/website/photo_2026-07-04_01-47-41-2.jpg",
     "author": {
         "name": "Анна Строкина"
     },
